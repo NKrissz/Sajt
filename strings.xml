@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sajt</string>
+    <string name="Ext">Exit</string>
+    <string name="Msg">Message Or \"Popup\"</string>
+    <string name="Nthng">Hello World!</string>
+    <string name="Sajt">Sajt</string>
+</resources>
